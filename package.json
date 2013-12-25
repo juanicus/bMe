@@ -1,0 +1,30 @@
+{
+  "name": "bme",
+  "version": "0.0.0",
+  "description": "This is the first stage of bme server",
+  "main": "helloExample.js",
+  "dependencies": {
+    "actionHero": "~7.0.0",
+    "logfmt": "~0.18.1",
+    "express": "~3.4.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juanicus/bMe.git"
+  },
+  "keywords": [
+    "heroku",
+    "bme",
+    "musicshare"
+  ],
+  "author": "Juanicus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanicus/bMe/issues"
+  },
+  "homepage": "https://github.com/juanicus/bMe"
+}
